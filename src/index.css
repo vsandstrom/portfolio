@@ -1,0 +1,15 @@
+@font-face {
+    font-family: "DejaVu";
+    src: local("DejaVuSans"), url("./fonts/DejaVuSans.ttf");
+}
+
+@font-face {
+    font-family: "RedHat";
+    src: local("RedHatMono-Medium"), url("./fonts/RedHatMono-Medium.ttf");
+}
+
+/* @font-face { */
+/*   font-family: "Commodore"; */
+/*   src: local("Commodore Angled v1.2"), url("./fonts/Commodore Angled v1.2.ttf"); */
+/* } */
+

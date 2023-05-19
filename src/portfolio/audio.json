@@ -1,0 +1,185 @@
+[
+  {
+    "title": "Works",
+    "category": "works",
+    "works": [
+        {
+          "album": "2021/2022",
+          "id": "releases",
+          "description": "From an EP based on the music from my graduation concert at Kungliga Musikhögskolan in Stockholm.",
+          "playlist": [
+            {
+              "title": "DEC",
+              "desc": "",
+              "links": [
+                {
+                  "name": "BandCamp - DEC",
+                  "url": "https://viktorsandstrm.bandcamp.com/track/dec"
+                }
+              ],
+              "url": "DEC.mp3"
+            }, 
+            {
+              "title": "Koltrast",
+              "desc": "",
+              "links": [
+                {
+                  "name": "BandCamp - Koltrast",
+                  "url": "https://viktorsandstrm.bandcamp.com/track/koltrast"
+                }
+              ],
+              "url": "KOLTRAST.mp3"
+            },
+            {
+              "title": "K87-89",
+              "desc": "",
+              "links": [
+                {
+                  "name": "BandCamp - K87-89",
+                  "url": "https://viktorsandstrm.bandcamp.com/track/k87-89"
+                }
+              ],
+              "url": "K87-89.mp3"
+            },
+            {
+              "title": "FEB",
+              "desc": "",
+
+              "links": [
+                {
+                  "name": "BandCamp - FEB",
+                  "url": "https://viktorsandstrm.bandcamp.com/track/feb"
+                }
+              ],
+              "url": "FEB (kassett edit).mp3"
+            }
+          ]
+        },
+        {
+          "album": "Improvisation för 16 operatorer",
+          "id": "releases",
+          "description": null, 
+          "playlist": [
+            {
+            "title": null,
+            "desc": "An improvisation on a virtual Max/MSP instrument designed for performance in 'Klangkupolen' at Kungliga Musikhögskolan. The piece itself is 'fixed-media', but was built using improvisations using a custom TouchOSC controller being able to control and direct all the voices at once. It was an experiment on stability, and how that plays on our sense of liveness.",
+            "links": [
+              {
+                "name": "SoundCloud - Improvisation för 16 operatorer",
+                "url": "https://soundcloud.com/viktorsandstrm/improvisation-for-16-operatorer-binaural-mix"
+              }
+            ],
+            "url": "16op.mp3"
+            }
+          ]
+        },
+        {
+          "album": "Hyper organ",
+          "id": "releases",
+          "description": null,
+          "playlist": [
+            {
+              "title": null,
+              "desc": "A Piece consisting of several parts recorded on a church organ, Arranged through ambisonics to swoosh past you following large trajectories in the space around you.",
+              "links": [
+                {
+                  "name": "SoundCloud - Hyper Organ",
+                  "url": "https://soundcloud.com/viktorsandstrm/hyper-organhyperorgel-binaural-mix"
+                }
+              ],
+              "url": "hyper organ_hyperorgel.mp3"
+            }
+          ]
+        }
+      ]
+    },
+
+  {
+    "title": "Sound Installations",
+    "category": "soundinstallations",
+    "works": [
+        {
+          "album": "Stycke för cykeltunnel",
+          "id": "soundinstallations",
+          "description": null,
+          "playlist": [
+            {
+              "desc": "A part of a collaborative exhibition presented in two locations on opposite sides of the Gullmarsplan/Skanstull bridge, as part of 'Stockholm Konst'. -- \"Stycket handlar delvis om att förstärka och framhäva tunnelns eget ljud genom kompositörens subjektiva bedömning av vad som är viktigt. Kompositionen är stilla men aktiveras när platsen är mer aktiv. den kan ”vråla till” när något händer. Sandström låter platserna växla och deras tilldelade harmonier glida in i varandra för att skapa en förskjutning från en tunnel till en annan.\"",
+              "links": [
+                {
+                  "name": "Stockholm Konst",
+                  "url": "https://www.stockholmkonst.se/aktuellt/stockholm-konst-at--wallstreet-stockholm-2022/"
+                }
+              ],
+              "url": "2res.mp3"
+            }]
+        },
+        {
+          "album": "Metamorfos",
+          "id": "soundinstallations",
+          "description": null,
+          "playlist": [
+            {
+              "desc": "Performed for the first time at Niklas Dahlqvist and Adéle Askelöf space Galleri Resorb in the winter of 2021. Consisting of a bunch of field recordings collected during a period of sick-leave, they blend together with hard cuts using a real-time process where samples from the different files overwrite each other in tiny stabby grains. Since the process is generative it will constantly generate new combinations forever, or until the program crashes.",
+              "links": [
+                {
+                  "name": "GitHub - Metamorfos",
+                  "url": "https://github.com/vsandstrom/metamorphosis"
+                }
+              ],
+              "url": null
+            }
+
+          ]
+        },
+        {
+          "album": "Entr'acte remix",
+          "id": "soundinstallations",
+          "desc": "",
+          "playlist": [
+            {
+              "desc": "A part of the exhibition \"Om du inte gillar det kan du dra åt helvete!\" (If you don't like it you can go fuck yourself!), documenting and celebrating the life of the founder of Dansmuséet, Rolf de Maré and the \"Ballets Suédois\", where the graduating id of electroacoustic music from KMH was asked to participate. This one of 6 pieces composed by each of us, currently playing in the foaljé of the exhibition at 'Dansmuséet' - Stockholm. The material for this piece consists of piano recordings of the Eric Satie piece \"Entr'acte\".",
+              "links": [
+                {
+                  "name": "Om ni inte gillar det kan ni dra åt helvete! - Dansmuséet",
+                  "url": "https://dansmuseet.se/program/om-ni-inte-gillar-det-kan-ni-dra-at-helvete/"
+                }, {
+                  "name": "Utställningskritik - Recension", 
+                  "url": "https://utstallningskritik.se/2021-1/en-avantgardistisk-drom-som-far-besokaren-att-dansa/"
+                }
+              ],
+              "url": "Entr_acte (remix).mp3"
+            }
+
+          ]
+
+        },
+        {
+          "album": "Samtal i mörker",
+          "id": "soundinstallations",
+          "desc": "",
+          "playlist": [
+            {
+              "desc": "Sound design for a performance by the performance artist Frida Sandström. The piece was about how social constructs and hierarchies might be challenged, through a conversation in complete darkness, with participants whom you cannot see or adress by name. What do you bring to the conversation and what do you leave with.",
+              "links": [
+                {
+                  "name": "Östgöta Konst - Intervju med Frida Sandström",
+                  "url": "https://ostgotakonst.se/samtal-i-absolut-morker/"
+                },
+                {
+
+                  "name": "VänerNytt - Recension",
+                  "url": "https://vn.se/2019-03-07/ett-samtal-i-absolut-morker"
+                },
+                {
+                  "name": "SoundCloud - Samtal I Mörker",
+                  "url": "https://soundcloud.com/viktorsandstrm/samtal-i-morker-utkast1/s-pnmpx?si=804b0d985c7b41d89a9be6e17c9b6383&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+                }
+              ],
+              "url": null
+            }
+          ]
+        }
+    ]
+  }
+] 
